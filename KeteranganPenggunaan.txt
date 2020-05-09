@@ -1,0 +1,10 @@
+Keterangan Penggunaan class
+
+Create , Edit , Hapus atau yang biasa disebut CRUD
+Fungsi ini digunakan untuk menambahkan data, menghapus data, serta mengupdate data
+yang tentu saja sangat berguna bagi project UAS saya nanti, dimana setiap aktor pasti
+menggunakan konsep CRUD ini
+
+Sedangkan file index
+digunakan untuk mendapatkan nilai dari suatu cell berdasarkan pencarian pada suatu definisi table/data range worksheet kita.
+Pencarian digunakan berdasarkan informasi posisi kolom dan baris, dengan acuan berupa kolom dan baris pertama table/data range tersebut.
